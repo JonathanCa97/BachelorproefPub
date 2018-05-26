@@ -1,0 +1,630 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AlignDlib	../OpenFace/openface/align_dlib.py	/^class AlignDlib:$/;"	kind:class	line:62
+AlignDlib	../face-recognition/align.py	/^class AlignDlib:$/;"	kind:class	line:61
+Args	../OpenFace/evaluation/lfw-classification-unknown.py	/^    class Args():$/;"	kind:class	line:348
+EIGENpath	../opencv.py	/^    EIGENpath = '.\/OPENCV_EIGEN_RESULTS\/Typ' + str(counter) + '.csv'$/;"	kind:variable	line:48
+Face	../OpenFace/demos/web/websocket-server.py	/^class Face:$/;"	kind:class	line:82
+INNER_EYES_AND_BOTTOM_LIP	../OpenFace/openface/align_dlib.py	/^    INNER_EYES_AND_BOTTOM_LIP = [39, 42, 57]$/;"	kind:variable	line:77
+INNER_EYES_AND_BOTTOM_LIP	../face-recognition/align.py	/^    INNER_EYES_AND_BOTTOM_LIP = [39, 42, 57]$/;"	kind:variable	line:76
+IdentityMetadata	../face-recognition/test.py	/^class IdentityMetadata():$/;"	kind:class	line:23
+Image	../OpenFace/openface/data.py	/^class Image:$/;"	kind:class	line:24
+LBPpath	../opencv.py	/^    LBPpath = '.\/OPENCV_LBP_RESULTS\/Type' + str(counter) + '.csv'$/;"	kind:variable	line:47
+LRN2D	../face-recognition/utils.py	/^def LRN2D(x):$/;"	kind:function	line:34
+MINMAX_TEMPLATE	../OpenFace/openface/align_dlib.py	/^MINMAX_TEMPLATE = (TEMPLATE - TPL_MIN) \/ (TPL_MAX - TPL_MIN)$/;"	kind:variable	line:59
+MINMAX_TEMPLATE	../face-recognition/align.py	/^MINMAX_TEMPLATE = (TEMPLATE - TPL_MIN) \/ (TPL_MAX - TPL_MIN)$/;"	kind:variable	line:58
+MOCK_MODULES	../OpenFace/api-docs/conf.py	/^MOCK_MODULES = ['argparse', 'cv2', 'dlib', 'numpy', 'numpy.linalg', 'pandas']$/;"	kind:variable	line:9
+OUTER_EYES_AND_NOSE	../OpenFace/openface/align_dlib.py	/^    OUTER_EYES_AND_NOSE = [36, 45, 33]$/;"	kind:variable	line:78
+OUTER_EYES_AND_NOSE	../face-recognition/align.py	/^    OUTER_EYES_AND_NOSE = [36, 45, 33]$/;"	kind:variable	line:77
+OpenFaceServerProtocol	../OpenFace/demos/web/websocket-server.py	/^class OpenFaceServerProtocol(WebSocketServerProtocol):$/;"	kind:class	line:95
+RESULTS_PATH	../facerecognition.py	/^RESULTS_PATH = '.\/FACERECOGNITION_RESULTS\/Type'$/;"	kind:variable	line:10
+TEMPLATE	../OpenFace/openface/align_dlib.py	/^TEMPLATE = np.float32([$/;"	kind:variable	line:22
+TEMPLATE	../face-recognition/align.py	/^TEMPLATE = np.float32([$/;"	kind:variable	line:21
+TYPE1_FOLDER	../facerecognition.py	/^TYPE1_FOLDER = TYPE_FOLDER + '1'$/;"	kind:variable	line:8
+TYPES	../face-recognition/test.py	/^TYPES = 8$/;"	kind:variable	line:17
+TYPES	../facerecognition.py	/^TYPES = 9$/;"	kind:variable	line:9
+TYPES	../functions.py	/^TYPES = 8$/;"	kind:variable	line:10
+TYPES	../opencv.py	/^TYPES = 8$/;"	kind:variable	line:16
+TYPE_FOLDER	../facerecognition.py	/^TYPE_FOLDER = '.\/Type'$/;"	kind:variable	line:7
+TorchNeuralNet	../OpenFace/openface/torch_neural_net.lutorpy.py	/^class TorchNeuralNet:$/;"	kind:class	line:39
+TorchNeuralNet	../OpenFace/openface/torch_neural_net.py	/^class TorchNeuralNet:$/;"	kind:class	line:34
+Tracker	../OpenFace/demos/sphere.py	/^    class Tracker:$/;"	kind:class	line:195
+X	../OpenFace/util/tsne.py	/^X = pd.read_csv("{}\/reps.csv".format(args.workDir)).as_matrix()$/;"	kind:variable	line:30
+X_embedded	../face-recognition/test.py	/^X_embedded = TSNE(n_components=2).fit_transform(embedded)$/;"	kind:variable	line:152
+X_pca	../OpenFace/util/tsne.py	/^X_pca = PCA(n_components=50).fit_transform(X, X)$/;"	kind:variable	line:35
+X_r	../OpenFace/util/tsne.py	/^X_r = tsne.fit_transform(X_pca)$/;"	kind:variable	line:37
+X_train	../face-recognition/test.py	/^X_train = embedded[train_idx]$/;"	kind:variable	line:123
+_FLOATX	../face-recognition/utils.py	/^_FLOATX = 'float32'$/;"	kind:variable	line:13
+__del__	../OpenFace/openface/torch_neural_net.py	/^    def __del__(self):$/;"	kind:member	line:105
+__enter__	../OpenFace/openface/torch_neural_net.py	/^    def __enter__(self):$/;"	kind:member	line:91
+__exit__	../OpenFace/openface/torch_neural_net.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:95
+__init__	../OpenFace/demos/sphere.py	/^        def __init__(self, img, bb, rep):$/;"	kind:member	line:197
+__init__	../OpenFace/demos/web/websocket-server.py	/^    def __init__(self):$/;"	kind:member	line:96
+__init__	../OpenFace/demos/web/websocket-server.py	/^    def __init__(self, rep, identity):$/;"	kind:member	line:84
+__init__	../OpenFace/evaluation/lfw-classification-unknown.py	/^        def __init__(self, inputDir, outputDir, verbose):$/;"	kind:member	line:353
+__init__	../OpenFace/openface/align_dlib.py	/^    def __init__(self, facePredictor):$/;"	kind:member	line:80
+__init__	../OpenFace/openface/data.py	/^    def __init__(self, cls, name, path):$/;"	kind:member	line:27
+__init__	../OpenFace/openface/torch_neural_net.lutorpy.py	/^    def __init__(self, model=defaultModel, imgDim=96, cuda=False):$/;"	kind:member	line:46
+__init__	../OpenFace/openface/torch_neural_net.py	/^    def __init__(self, model=defaultModel, imgDim=96, cuda=False):$/;"	kind:member	line:60
+__init__	../face-recognition/align.py	/^    def __init__(self, facePredictor):$/;"	kind:member	line:79
+__init__	../face-recognition/test.py	/^    def __init__(self, base, name, file):$/;"	kind:member	line:24
+__init__.py	../OpenFace/openface/__init__.py	1;"	kind:file	line:1
+__init__.py	../OpenFace/tests/__init__.py	1;"	kind:file	line:1
+__repr__	../OpenFace/demos/web/websocket-server.py	/^    def __repr__(self):$/;"	kind:member	line:88
+__repr__	../OpenFace/openface/data.py	/^    def __repr__(self):$/;"	kind:member	line:73
+__repr__	../face-recognition/test.py	/^    def __repr__(self):$/;"	kind:member	line:32
+action	../OpenFace/demos/classifier.py	/^                             action="store_true")$/;"	kind:variable	line:262
+action	../OpenFace/evaluation/lfw-classification-unknown.py	/^        action='store_true',$/;"	kind:variable	line:481
+align	../OpenFace/data/vgg/download-and-align.py	/^align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:56
+align	../OpenFace/demos/classifier.py	/^    align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:283
+align	../OpenFace/demos/classifier_webcam.py	/^    align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:179
+align	../OpenFace/demos/compare.py	/^align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:58
+align	../OpenFace/demos/web/create-unknown-vectors.py	/^align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:49
+align	../OpenFace/demos/web/websocket-server.py	/^align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:77
+align	../OpenFace/openface/align_dlib.py	/^    def align(self, imgDim, rgbImg, bb=None,$/;"	kind:member	line:146
+align	../OpenFace/tests/openface_api_tests.py	/^align = openface.AlignDlib(dlibFacePredictor)$/;"	kind:variable	line:42
+align	../OpenFace/util/profile-pipeline.py	/^align = openface.AlignDlib(args.dlibFacePredictor)$/;"	kind:variable	line:56
+align	../face-recognition/align.py	/^    def align(self, imgDim, rgbImg, bb=None,$/;"	kind:member	line:145
+align-dlib.py	../OpenFace/util/align-dlib.py	1;"	kind:file	line:1
+align.py	../face-recognition/align.py	1;"	kind:file	line:1
+alignMain	../OpenFace/util/align-dlib.py	/^def alignMain(args):$/;"	kind:function	line:79
+align_dlib	../OpenFace/evaluation/lfw-classification-unknown.py	/^align_dlib = __import__('align-dlib')$/;"	kind:variable	line:61
+align_dlib.py	../OpenFace/openface/align_dlib.py	1;"	kind:file	line:1
+align_image	../face-recognition/test.py	/^def align_image(img):$/;"	kind:function	line:62
+alignment	../face-recognition/test.py	/^alignment = AlignDlib('models\/landmarks.dat')$/;"	kind:variable	line:72
+alignmentParser	../OpenFace/util/align-dlib.py	/^    alignmentParser = subparsers.add_parser($/;"	kind:variable	line:152
+alignmentTimes	../OpenFace/util/profile-pipeline.py	/^alignmentTimes = []$/;"	kind:variable	line:87
+allImgs	../OpenFace/demos/web/create-unknown-vectors.py	/^    allImgs = list(iterImgs(args.imgDir))$/;"	kind:variable	line:71
+alpha	../OpenFace/demos/sphere.py	/^        alpha = 0.25$/;"	kind:variable	line:275
+alpha	../OpenFace/evaluation/lfw-classification.py	/^alpha = 0.7$/;"	kind:variable	line:58
+annotate-image.py	../OpenFace/util/annotate-image.py	1;"	kind:file	line:1
+area	../face-recognition/test.py	/^    area = (20 * np.random.rand(10))**2$/;"	kind:variable	line:160
+args	../OpenFace/data/ms-celeb-1m/extract.py	/^args = parser.parse_args()$/;"	kind:variable	line:33
+args	../OpenFace/data/vgg/download-and-align.py	/^args = parser.parse_args()$/;"	kind:variable	line:54
+args	../OpenFace/demos/classifier.py	/^    args = parser.parse_args()$/;"	kind:variable	line:264
+args	../OpenFace/demos/classifier_webcam.py	/^    args = parser.parse_args()$/;"	kind:variable	line:177
+args	../OpenFace/demos/compare.py	/^args = parser.parse_args()$/;"	kind:variable	line:51
+args	../OpenFace/demos/web/create-unknown-vectors.py	/^args = parser.parse_args()$/;"	kind:variable	line:47
+args	../OpenFace/demos/web/websocket-server.py	/^args = parser.parse_args()$/;"	kind:variable	line:75
+args	../OpenFace/training/plot-loss.py	/^    args = parser.parse_args()$/;"	kind:variable	line:88
+args	../OpenFace/util/align-dlib.py	/^    args = parser.parse_args()$/;"	kind:variable	line:169
+args	../OpenFace/util/annotate-image.py	/^    args = parser.parse_args()$/;"	kind:variable	line:70
+args	../OpenFace/util/create-train-val-split.py	/^    args = parser.parse_args()$/;"	kind:variable	line:94
+args	../OpenFace/util/profile-pipeline.py	/^args = parser.parse_args()$/;"	kind:variable	line:50
+args	../OpenFace/util/prune-dataset.py	/^    args = parser.parse_args()$/;"	kind:variable	line:14
+args	../OpenFace/util/tsne.py	/^args = parser.parse_args()$/;"	kind:variable	line:27
+author	../OpenFace/api-docs/conf.py	/^author = 'Carnegie Mellon University'$/;"	kind:variable	line:31
+autoclass_content	../OpenFace/api-docs/conf.py	/^autoclass_content = 'both'$/;"	kind:variable	line:20
+avg	../OpenFace/util/profile-pipeline.py	/^avg = np.mean(alignmentTimes)$/;"	kind:variable	line:101
+avg	../OpenFace/util/profile-pipeline.py	/^avg = np.mean(detectionTimes)$/;"	kind:variable	line:98
+avg	../OpenFace/util/profile-pipeline.py	/^avg = np.mean(repTimes)$/;"	kind:variable	line:104
+avg	../OpenFace/util/profile-pipeline.py	/^avg = np.mean(totalTimes)$/;"	kind:variable	line:107
+badURLs	../OpenFace/util/check-links.py	/^badURLs = []$/;"	kind:variable	line:42
+bbs	../OpenFace/demos/sphere.py	/^        bbs = align.getAllFaceBoundingBoxes(frameSmall)$/;"	kind:variable	line:225
+begin_time	../facerecognition.py	/^        begin_time = int(round(time.time() * 1000))$/;"	kind:variable	line:64
+best_distance	../facerecognition.py	/^                        best_distance = distance$/;"	kind:variable	line:85
+best_distance	../facerecognition.py	/^                best_distance = 1$/;"	kind:variable	line:81
+best_index	../facerecognition.py	/^                        best_index = index$/;"	kind:variable	line:86
+best_index	../facerecognition.py	/^                best_index = -1$/;"	kind:variable	line:80
+beta	../OpenFace/demos/sphere.py	/^        beta = 1. - alpha$/;"	kind:variable	line:276
+bgrImg	../OpenFace/util/profile-pipeline.py	/^bgrImg = cv2.imread(args.img)$/;"	kind:variable	line:80
+cSz	../OpenFace/demos/sphere.py	/^        cSz = 450$/;"	kind:variable	line:272
+cacheToFile	../OpenFace/evaluation/lfw-classification.py	/^def cacheToFile(file_name):$/;"	kind:function	line:124
+check-links.py	../OpenFace/util/check-links.py	1;"	kind:file	line:1
+choices	../OpenFace/demos/classifier.py	/^        choices=[$/;"	kind:variable	line:238
+choices	../OpenFace/evaluation/lfw-classification-unknown.py	/^        choices=[$/;"	kind:variable	line:434
+choices	../OpenFace/util/align-dlib.py	/^                                 choices=['outerEyesAndNose',$/;"	kind:variable	line:155
+choices	../OpenFace/util/annotate-image.py	/^                        choices=['outerEyesAndNose', 'innerEyesAndBottomLip'],$/;"	kind:variable	line:66
+classifier.py	../OpenFace/demos/classifier.py	1;"	kind:file	line:1
+classifier_webcam.py	../OpenFace/demos/classifier_webcam.py	1;"	kind:file	line:1
+clfChoices	../OpenFace/evaluation/lfw-classification-unknown.py	/^clfChoices = [$/;"	kind:variable	line:66
+cmap	../OpenFace/evaluation/lfw-classification.py	/^cmap = plt.get_cmap("Set1")$/;"	kind:variable	line:56
+cmd	../OpenFace/util/check-links.py	/^cmd = ['grep', '-I', '--no-filename',$/;"	kind:variable	line:33
+colors	../OpenFace/evaluation/lfw-classification.py	/^colors = cmap(np.linspace(0, 0.5, 5))$/;"	kind:variable	line:57
+colors	../OpenFace/util/tsne.py	/^colors = cm.Dark2(np.linspace(0, 1, len(target_names)))$/;"	kind:variable	line:33
+colors	../face-recognition/test.py	/^colors = ['#6495ed', '#00ff00', '#7fff00', '#c1cdcd', '#5cacee', '#cd5555', '#68838b', '#030303', '#2e2e2e', '#8b6508', '#8b5742', '#cdcd00',$/;"	kind:variable	line:156
+compare.py	../OpenFace/demos/compare.py	1;"	kind:file	line:1
+computeMeanMain	../OpenFace/util/align-dlib.py	/^def computeMeanMain(args):$/;"	kind:function	line:44
+computeMeanParser	../OpenFace/util/align-dlib.py	/^    computeMeanParser = subparsers.add_parser($/;"	kind:variable	line:148
+concatenate	../face-recognition/utils.py	/^def concatenate(tensors, axis=-1):$/;"	kind:function	line:29
+conf.py	../OpenFace/api-docs/conf.py	1;"	kind:file	line:1
+confidence	../facerecognition.py	/^                confidence = best_distance$/;"	kind:variable	line:90
+confidence	../facerecognition.py	/^        confidence = None$/;"	kind:variable	line:55
+confidenceList	../OpenFace/demos/classifier_webcam.py	/^    confidenceList = []$/;"	kind:variable	line:190
+contents	../OpenFace/data/vgg/download-and-align.py	/^        contents = f.readlines()$/;"	kind:variable	line:62
+conv2d_bn	../face-recognition/utils.py	/^def conv2d_bn($/;"	kind:function	line:37
+conv_shape	../face-recognition/utils.py	/^conv_shape = {$/;"	kind:variable	line:89
+copyright	../OpenFace/api-docs/conf.py	/^copyright = '2015-2016, Carnegie Mellon University'$/;"	kind:variable	line:30
+counter	../facerecognition.py	/^counter = 0$/;"	kind:variable	line:19
+create-train-val-split.py	../OpenFace/util/create-train-val-split.py	1;"	kind:file	line:1
+create-unknown-vectors.py	../OpenFace/demos/web/create-unknown-vectors.py	1;"	kind:file	line:1
+createTrainValSplit	../OpenFace/util/create-train-val-split.py	/^def createTrainValSplit(imageDir, valRatio):$/;"	kind:function	line:54
+create_model	../face-recognition/model.py	/^def create_model():$/;"	kind:function	line:15
+csvFileEIGEN	../opencv.py	/^    csvFileEIGEN = csv.writer($/;"	kind:variable	line:55
+csvFileLBP	../opencv.py	/^    csvFileLBP = csv.writer($/;"	kind:variable	line:51
+csv_file	../facerecognition.py	/^    csv_file = csv.writer(open(csv_path, 'w'))$/;"	kind:variable	line:45
+csv_path	../facerecognition.py	/^    csv_path = RESULTS_PATH + str(counter) + '.csv'$/;"	kind:variable	line:44
+cuda	../OpenFace/demos/classifier.py	/^                                  cuda=args.cuda)$/;"	kind:variable	line:285
+cuda	../OpenFace/demos/classifier_webcam.py	/^        cuda=args.cuda)$/;"	kind:variable	line:183
+cuda	../OpenFace/demos/web/websocket-server.py	/^                              cuda=args.cuda)$/;"	kind:variable	line:79
+d	../OpenFace/demos/compare.py	/^    d = getRep(img1) - getRep(img2)$/;"	kind:variable	line:101
+data.py	../OpenFace/openface/data.py	1;"	kind:file	line:1
+data.py	../face-recognition/data.py	1;"	kind:file	line:1
+decorator	../OpenFace/evaluation/lfw-classification.py	/^    def decorator(original_func):$/;"	kind:function	line:125
+default	../OpenFace/data/vgg/download-and-align.py	/^                    default='aligned')$/;"	kind:variable	line:52
+default	../OpenFace/data/vgg/download-and-align.py	/^                    default='raw')$/;"	kind:variable	line:50
+default	../OpenFace/data/vgg/download-and-align.py	/^                    default='raw-txt')$/;"	kind:variable	line:48
+default	../OpenFace/data/vgg/download-and-align.py	/^                    default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:46
+default	../OpenFace/demos/classifier.py	/^        default='LinearSvm')$/;"	kind:variable	line:247
+default	../OpenFace/demos/classifier.py	/^        default=os.path.join($/;"	kind:variable	line:216
+default	../OpenFace/demos/classifier.py	/^        default=os.path.join($/;"	kind:variable	line:223
+default	../OpenFace/demos/classifier_webcam.py	/^        default=0,$/;"	kind:variable	line:165
+default	../OpenFace/demos/classifier_webcam.py	/^        default=os.path.join($/;"	kind:variable	line:150
+default	../OpenFace/demos/classifier_webcam.py	/^        default=os.path.join($/;"	kind:variable	line:157
+default	../OpenFace/demos/compare.py	/^                    default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:44
+default	../OpenFace/demos/compare.py	/^                    default=os.path.join(openfaceModelDir, 'nn4.small2.v1.t7'))$/;"	kind:variable	line:46
+default	../OpenFace/demos/web/create-unknown-vectors.py	/^                    default=".\/unknown.npy")$/;"	kind:variable	line:44
+default	../OpenFace/demos/web/create-unknown-vectors.py	/^                    default=96)$/;"	kind:variable	line:46
+default	../OpenFace/demos/web/create-unknown-vectors.py	/^                    default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:41
+default	../OpenFace/demos/web/create-unknown-vectors.py	/^                    default=os.path.join(openfaceModelDir, 'nn4.small2.v1.t7'))$/;"	kind:variable	line:39
+default	../OpenFace/demos/web/websocket-server.py	/^                    default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:64
+default	../OpenFace/demos/web/websocket-server.py	/^                    default=os.path.join(openfaceModelDir, 'nn4.small2.v1.t7'))$/;"	kind:variable	line:66
+default	../OpenFace/evaluation/lfw-classification-unknown.py	/^        default='LinearSvm')$/;"	kind:variable	line:440
+default	../OpenFace/evaluation/lfw-classification-unknown.py	/^        default=0.0)$/;"	kind:variable	line:477
+default	../OpenFace/evaluation/lfw-classification-unknown.py	/^        default=os.path.join($/;"	kind:variable	line:412
+default	../OpenFace/evaluation/lfw-classification-unknown.py	/^        default=os.path.join($/;"	kind:variable	line:419
+default	../OpenFace/util/align-dlib.py	/^                                   default=0)  # <= 0 ===> all imgs$/;"	kind:variable	line:151
+default	../OpenFace/util/align-dlib.py	/^                                 default=96)$/;"	kind:variable	line:162
+default	../OpenFace/util/align-dlib.py	/^                        default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:145
+default	../OpenFace/util/annotate-image.py	/^                        default=96)$/;"	kind:variable	line:69
+default	../OpenFace/util/annotate-image.py	/^                        default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:64
+default	../OpenFace/util/profile-pipeline.py	/^                    default=os.path.join(dlibModelDir, "shape_predictor_68_face_landmarks.dat"))$/;"	kind:variable	line:42
+default	../OpenFace/util/profile-pipeline.py	/^                    default=os.path.join(openfaceModelDir, 'nn4.small2.v1.t7'))$/;"	kind:variable	line:44
+default	../OpenFace/util/prune-dataset.py	/^                        default=10)$/;"	kind:variable	line:13
+defaultModel	../OpenFace/openface/torch_neural_net.lutorpy.py	/^    defaultModel = os.path.join($/;"	kind:variable	line:43
+defaultModel	../OpenFace/openface/torch_neural_net.py	/^    defaultModel = os.path.join(myDir, '..', 'models', 'openface', 'nn4.small2.v1.t7')$/;"	kind:variable	line:58
+detect-outliers.py	../OpenFace/util/detect-outliers.py	1;"	kind:file	line:1
+detect_face	../functions.py	/^def detect_face(img):$/;"	kind:function	line:15
+detectedImage1	../facerecognition.py	/^        detectedImage1 = 1 if detected_faces.count(image_id) > 0 else 0$/;"	kind:variable	line:56
+detectedImage2	../facerecognition.py	/^        detectedImage2 = 0$/;"	kind:variable	line:57
+detectedImage2	../facerecognition.py	/^        detectedImage2 = 1 if unknown_image_encoding is not None else 0$/;"	kind:variable	line:71
+detected_faces	../facerecognition.py	/^detected_faces = []$/;"	kind:variable	line:15
+detected_labels	../face-recognition/test.py	/^detected_labels = set([])$/;"	kind:variable	line:75
+detectionTimes	../OpenFace/util/profile-pipeline.py	/^detectionTimes = []$/;"	kind:variable	line:86
+dirs	../OpenFace/util/check-links.py	/^dirs = ['api-docs', 'batch-represent', 'docs', 'evaluation',$/;"	kind:variable	line:30
+dirs	../OpenFace/util/check-links.py	/^dirs = [os.path.join(utilDir, '..', d) for d in dirs]$/;"	kind:variable	line:32
+distance	../face-recognition/test.py	/^def distance(emb1, emb2):$/;"	kind:function	line:51
+distance	../facerecognition.py	/^                    distance = distances[index]$/;"	kind:variable	line:83
+distances	../face-recognition/test.py	/^distances = []  # squared L2 distance between pairs$/;"	kind:variable	line:92
+distances	../face-recognition/test.py	/^distances = np.array(distances)$/;"	kind:variable	line:102
+distances	../facerecognition.py	/^            distances = face_recognition.face_distance($/;"	kind:variable	line:76
+dlibFacePredictor	../OpenFace/tests/openface_api_tests.py	/^dlibFacePredictor = os.path.join(dlibModelDir,$/;"	kind:variable	line:37
+dlibModelDir	../OpenFace/data/vgg/download-and-align.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:39
+dlibModelDir	../OpenFace/demos/classifier.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:50
+dlibModelDir	../OpenFace/demos/classifier_webcam.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:45
+dlibModelDir	../OpenFace/demos/compare.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:37
+dlibModelDir	../OpenFace/demos/sphere.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:21
+dlibModelDir	../OpenFace/demos/web/create-unknown-vectors.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:32
+dlibModelDir	../OpenFace/demos/web/websocket-server.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:56
+dlibModelDir	../OpenFace/evaluation/lfw-classification-unknown.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:57
+dlibModelDir	../OpenFace/evaluation/lfw-classification.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:50
+dlibModelDir	../OpenFace/tests/openface_api_tests.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:31
+dlibModelDir	../OpenFace/util/align-dlib.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:30
+dlibModelDir	../OpenFace/util/annotate-image.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:31
+dlibModelDir	../OpenFace/util/profile-pipeline.py	/^dlibModelDir = os.path.join(modelDir, 'dlib')$/;"	kind:variable	line:35
+download	../OpenFace/data/vgg/download-and-align.py	/^def download(person, url, bb):$/;"	kind:function	line:71
+download-and-align.py	../OpenFace/data/vgg/download-and-align.py	1;"	kind:file	line:1
+download_packed	../OpenFace/data/vgg/download-and-align.py	/^def download_packed(args):$/;"	kind:function	line:104
+dpnn	../OpenFace/openface/torch_neural_net.lutorpy.py	/^dpnn = lua.require('dpnn')$/;"	kind:variable	line:32
+draw	../OpenFace/demos/sphere.py	/^def draw(pts=[], clrs=[], cSz=400):$/;"	kind:function	line:96
+eigen_result	../opencv.py	/^            eigen_result = predictResult['eigen']$/;"	kind:variable	line:71
+embedded	../face-recognition/test.py	/^embedded = np.zeros((metadata.shape[0], 128))$/;"	kind:variable	line:74
+embeddings	../OpenFace/evaluation/lfw.py	/^    embeddings = dict(zip(*[paths, rawEmbeddings]))$/;"	kind:variable	line:73
+encoder	../face-recognition/test.py	/^encoder = LabelEncoder()$/;"	kind:variable	line:114
+end_time	../facerecognition.py	/^                end_time = int(round(time.time() * 1000))$/;"	kind:variable	line:88
+evalThresholdAccuracy	../OpenFace/evaluation/lfw.py	/^def evalThresholdAccuracy(embeddings, pairs, threshold):$/;"	kind:function	line:159
+exampleImages	../OpenFace/tests/openface_api_tests.py	/^exampleImages = os.path.join(openfaceDir, 'images', 'examples')$/;"	kind:variable	line:34
+exampleImages	../OpenFace/tests/openface_batch_represent_tests.py	/^exampleImages = os.path.join(openfaceDir, 'images', 'examples')$/;"	kind:variable	line:34
+exampleImages	../OpenFace/tests/openface_demo_tests.py	/^exampleImages = os.path.join(openfaceDir, 'images', 'examples')$/;"	kind:variable	line:27
+exampleImages	../OpenFace/tests/openface_neural_net_training_tests.py	/^exampleImages = os.path.join(openfaceDir, 'images', 'examples')$/;"	kind:variable	line:32
+exclude_patterns	../OpenFace/api-docs/conf.py	/^exclude_patterns = ['_build']$/;"	kind:variable	line:38
+exitHandler	../OpenFace/openface/torch_neural_net.py	/^        def exitHandler():$/;"	kind:function	line:86
+extensions	../OpenFace/api-docs/conf.py	/^extensions = [$/;"	kind:variable	line:13
+extract.py	../OpenFace/data/ms-celeb-1m/extract.py	1;"	kind:file	line:1
+exts	../OpenFace/util/prune-dataset.py	/^    exts = ["jpg", "png"]$/;"	kind:variable	line:16
+f1_scores	../face-recognition/test.py	/^f1_scores = [f1_score(identical, distances < t) for t in thresholds]$/;"	kind:variable	line:107
+face_encodings_list	../facerecognition.py	/^face_encodings_list = []$/;"	kind:variable	line:14
+face_locations_unknown	../facerecognition.py	/^        face_locations_unknown = face_recognition.face_locations($/;"	kind:variable	line:65
+face_recognizer_LBP	../opencv.py	/^face_recognizer_LBP = cv2.face.LBPHFaceRecognizer_create()$/;"	kind:variable	line:31
+face_recognizer_eigen_face	../opencv.py	/^face_recognizer_eigen_face = cv2.face.EigenFaceRecognizer_create()$/;"	kind:variable	line:32
+facerecognition.py	../facerecognition.py	1;"	kind:file	line:1
+faces_encodings	../facerecognition.py	/^faces_encodings = {}$/;"	kind:variable	line:12
+faces_encodings_indexes	../facerecognition.py	/^faces_encodings_indexes = {}$/;"	kind:variable	line:13
+field	../opencv.py	/^            field = {face_label: [predictResult]}$/;"	kind:variable	line:66
+fileDir	../OpenFace/data/vgg/download-and-align.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:37
+fileDir	../OpenFace/demos/classifier.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:48
+fileDir	../OpenFace/demos/classifier_webcam.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:43
+fileDir	../OpenFace/demos/compare.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:35
+fileDir	../OpenFace/demos/sphere.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:19
+fileDir	../OpenFace/demos/web/create-unknown-vectors.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:30
+fileDir	../OpenFace/demos/web/websocket-server.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:19
+fileDir	../OpenFace/evaluation/lfw-classification-unknown.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:55
+fileDir	../OpenFace/evaluation/lfw-classification.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:48
+fileDir	../OpenFace/util/align-dlib.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:28
+fileDir	../OpenFace/util/annotate-image.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:22
+fileDir	../OpenFace/util/detect-outliers.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:38
+fileDir	../OpenFace/util/profile-pipeline.py	/^fileDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:33
+findBestThreshold	../OpenFace/evaluation/lfw.py	/^def findBestThreshold(thresholds, embeddings, pairsTrain):$/;"	kind:function	line:169
+findLandmarks	../OpenFace/openface/align_dlib.py	/^    def findLandmarks(self, rgbImg, bb):$/;"	kind:member	line:129
+findLandmarks	../face-recognition/align.py	/^    def findLandmarks(self, rgbImg, bb):$/;"	kind:member	line:128
+fname	../OpenFace/evaluation/lfw.py	/^    fname = "{}\/labels.csv".format(args.workDir)$/;"	kind:variable	line:66
+fname	../OpenFace/evaluation/lfw.py	/^    fname = "{}\/reps.csv".format(args.workDir)$/;"	kind:variable	line:71
+folder	../facerecognition.py	/^    folder = TYPE_FOLDER + str(counter)$/;"	kind:variable	line:50
+forward	../OpenFace/openface/torch_neural_net.lutorpy.py	/^    def forward(self, rgbImg):$/;"	kind:member	line:97
+forward	../OpenFace/openface/torch_neural_net.py	/^    def forward(self, rgbImg):$/;"	kind:member	line:189
+forwardPath	../OpenFace/openface/torch_neural_net.lutorpy.py	/^    def forwardPath(self, imgPath):$/;"	kind:member	line:76
+forwardPath	../OpenFace/openface/torch_neural_net.py	/^    def forwardPath(self, imgPath):$/;"	kind:member	line:112
+frame	../OpenFace/demos/sphere.py	/^        frame = cv2.flip(frame, 1)$/;"	kind:variable	line:221
+frameSmall	../OpenFace/demos/sphere.py	/^        frameSmall = cv2.resize(frame, (int(args.width * args.scale),$/;"	kind:variable	line:222
+fullPersonPath	../OpenFace/data/vgg/download-and-align.py	/^    fullPersonPath = os.path.join(args.txt, person)$/;"	kind:variable	line:60
+functions.py	../functions.py	1;"	kind:file	line:1
+getAUC	../OpenFace/evaluation/lfw.py	/^def getAUC(fprs, tprs):$/;"	kind:function	line:213
+getAllFaceBoundingBoxes	../OpenFace/openface/align_dlib.py	/^    def getAllFaceBoundingBoxes(self, rgbImg):$/;"	kind:member	line:92
+getAllFaceBoundingBoxes	../face-recognition/align.py	/^    def getAllFaceBoundingBoxes(self, rgbImg):$/;"	kind:member	line:91
+getBGR	../OpenFace/openface/data.py	/^    def getBGR(self):$/;"	kind:member	line:46
+getData	../OpenFace/demos/web/websocket-server.py	/^    def getData(self):$/;"	kind:member	line:169
+getData	../OpenFace/evaluation/lfw-classification.py	/^def getData(lfwPpl, nPpl, nImgs, mode):$/;"	kind:function	line:157
+getDistances	../OpenFace/evaluation/lfw.py	/^def getDistances(embeddings, pairsTrain):$/;"	kind:function	line:147
+getEmbeddings	../OpenFace/evaluation/lfw.py	/^def getEmbeddings(pair, embeddings):$/;"	kind:function	line:91
+getImgs	../OpenFace/util/create-train-val-split.py	/^def getImgs(imageDir):$/;"	kind:function	line:34
+getLargestFaceBoundingBox	../OpenFace/openface/align_dlib.py	/^    def getLargestFaceBoundingBox(self, rgbImg, skipMulti=False):$/;"	kind:member	line:110
+getLargestFaceBoundingBox	../face-recognition/align.py	/^    def getLargestFaceBoundingBox(self, rgbImg, skipMulti=False):$/;"	kind:member	line:109
+getLfwPplSorted	../OpenFace/evaluation/lfw-classification.py	/^def getLfwPplSorted(lfwAligned):$/;"	kind:function	line:146
+getRGB	../OpenFace/openface/data.py	/^    def getRGB(self):$/;"	kind:member	line:59
+getRep	../OpenFace/demos/classifier.py	/^def getRep(imgPath, multiple=False):$/;"	kind:function	line:54
+getRep	../OpenFace/demos/classifier_webcam.py	/^def getRep(bgrImg):$/;"	kind:function	line:49
+getRep	../OpenFace/demos/compare.py	/^def getRep(imgPath):$/;"	kind:function	line:65
+getRep	../OpenFace/demos/sphere.py	/^def getRep(bgrImg):$/;"	kind:function	line:24
+getRep	../OpenFace/demos/web/create-unknown-vectors.py	/^def getRep(imgPath):$/;"	kind:function	line:53
+getRep	../OpenFace/evaluation/lfw-classification-unknown.py	/^def getRep(imgPath):$/;"	kind:function	line:141
+getTimes	../OpenFace/util/profile-pipeline.py	/^def getTimes(rgbImg):$/;"	kind:function	line:62
+hdr	../OpenFace/util/check-links.py	/^hdr = {$/;"	kind:variable	line:21
+help	../OpenFace/demos/classifier.py	/^                                        help="Train a new classifier.")$/;"	kind:variable	line:233
+help	../OpenFace/demos/classifier.py	/^                             help="Input image.")$/;"	kind:variable	line:260
+help	../OpenFace/demos/classifier.py	/^        help="Path to Torch network model.",$/;"	kind:variable	line:222
+help	../OpenFace/demos/classifier.py	/^        help="Path to dlib's face predictor.",$/;"	kind:variable	line:215
+help	../OpenFace/demos/classifier.py	/^        help="The input work directory containing 'reps.csv' and 'labels.csv'. Obtained from aligning a directory with 'align-dlib' and getting the representations with 'batch-represent'.")$/;"	kind:variable	line:251
+help	../OpenFace/demos/classifier.py	/^        help='The Python pickle representing the classifier. This is NOT the Torch network model, which can be set with --networkModel.')$/;"	kind:variable	line:258
+help	../OpenFace/demos/classifier.py	/^        help='The type of classifier to use.',$/;"	kind:variable	line:246
+help	../OpenFace/demos/classifier_webcam.py	/^        help="Path to Torch network model.",$/;"	kind:variable	line:156
+help	../OpenFace/demos/classifier_webcam.py	/^        help="Path to dlib's face predictor.",$/;"	kind:variable	line:149
+help	../OpenFace/demos/classifier_webcam.py	/^        help='Capture device. 0 for latop webcam and 1 for usb webcam')$/;"	kind:variable	line:166
+help	../OpenFace/demos/classifier_webcam.py	/^        help='The Python pickle representing the classifier. This is NOT the Torch network model, which can be set with --networkModel.')$/;"	kind:variable	line:175
+help	../OpenFace/demos/web/create-unknown-vectors.py	/^                    help="Output file, stored in numpy serialized format.",$/;"	kind:variable	line:43
+help	../OpenFace/demos/web/websocket-server.py	/^                    help='Try to predict unknown people')$/;"	kind:variable	line:71
+help	../OpenFace/demos/web/websocket-server.py	/^                    help='WebSocket Port')$/;"	kind:variable	line:73
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Enter the directory location where the aligned images, features, and classifer model will be saved.")$/;"	kind:variable	line:499
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Input the fratures folder which has the classifiers.")$/;"	kind:variable	line:465
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Input the test folder. It can be either known test dataset or unknown test dataset.")$/;"	kind:variable	line:470
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Path to Torch network model.",$/;"	kind:variable	line:418
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Path to dlib's face predictor.",$/;"	kind:variable	line:411
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Range of the people you would like to take as known person group. Not that the input is a list starts with 0 and the people are sorted in decending order of number of images. Eg: 0:10 ")$/;"	kind:variable	line:494
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="The input work directory containing 'reps.csv' and 'labels.csv'. Obtained from aligning a directory with 'align-dlib' and getting the representations with 'batch-represent'.")$/;"	kind:variable	line:444
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Threshold of the confidence to classify a prediction as unknown person. <threshold will be predicted as unknown person.",$/;"	kind:variable	line:476
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help="Use this flag if you are testing on unknown dataset. Make sure you set thresold value")$/;"	kind:variable	line:482
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help='Before Benchmarking preprocess divides the dataset into train and test pairs. Also it will align the train dataset and extract the features from it.')$/;"	kind:variable	line:486
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help='Predict who an image contains from a trained classifier.')$/;"	kind:variable	line:457
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help='The Python pickle representing the classifier. This is NOT the Torch network model, which can be set with --networkModel.')$/;"	kind:variable	line:451
+help	../OpenFace/evaluation/lfw-classification-unknown.py	/^        help='The type of classifier to use.',$/;"	kind:variable	line:439
+help	../OpenFace/util/align-dlib.py	/^                                 help="If alignment doesn't work, fallback to copying the deep funneled version from this directory..")$/;"	kind:variable	line:164
+help	../OpenFace/util/align-dlib.py	/^                                 help='The landmarks to align to.')$/;"	kind:variable	line:158
+help	../OpenFace/util/annotate-image.py	/^                        help='The landmarks to align to.')$/;"	kind:variable	line:67
+help	../OpenFace/util/create-train-val-split.py	/^                        help="Validation to training ratio.")$/;"	kind:variable	line:93
+help	../OpenFace/util/prune-dataset.py	/^                        help="Delete directories with less than this many images.",$/;"	kind:variable	line:12
+help	../OpenFace/util/prune-dataset.py	/^                        help="Directory to prune in-place.")$/;"	kind:variable	line:10
+helper.py	../OpenFace/openface/helper.py	1;"	kind:file	line:1
+html_static_path	../OpenFace/api-docs/conf.py	/^html_static_path = ['_static']$/;"	kind:variable	line:51
+html_theme	../OpenFace/api-docs/conf.py	/^html_theme = 'sphinx_rtd_theme'$/;"	kind:variable	line:50
+htmlhelp_basename	../OpenFace/api-docs/conf.py	/^htmlhelp_basename = 'OpenFacedoc'$/;"	kind:variable	line:52
+i	../OpenFace/data/ms-celeb-1m/extract.py	/^    i = 0$/;"	kind:variable	line:37
+identical	../face-recognition/test.py	/^identical = []  # 1 if same identity, 0 otherwise$/;"	kind:variable	line:93
+identical	../face-recognition/test.py	/^identical = np.array(identical)$/;"	kind:variable	line:103
+identity	../face-recognition/test.py	/^                    identity = encoder.inverse_transform(prediction)[0]$/;"	kind:variable	line:147
+ignoreURL	../OpenFace/util/check-links.py	/^def ignoreURL(url):$/;"	kind:function	line:15
+ignores	../OpenFace/util/check-links.py	/^ignores = ['localhost', '127.0.0.1', 'your-server', 'docker-ip',$/;"	kind:variable	line:11
+image	../OpenFace/openface/torch_neural_net.lutorpy.py	/^image = lua.require('image')$/;"	kind:variable	line:33
+image	../face-recognition/test.py	/^                    image = (image \/ 255.).astype(np.float32)$/;"	kind:variable	line:143
+image	../face-recognition/test.py	/^                    image = nn4_small2_pretrained.predict($/;"	kind:variable	line:144
+image	../face-recognition/test.py	/^                image = align_image(image)$/;"	kind:variable	line:141
+image	../face-recognition/test.py	/^                image = load_image(image_type_path + image_file)$/;"	kind:variable	line:140
+image_encoded	../facerecognition.py	/^    image_encoded = image_encoded_help[0] if image_encoded_help else None$/;"	kind:variable	line:27
+image_encoded_help	../facerecognition.py	/^    image_encoded_help = face_recognition.face_encodings(image_loaded)$/;"	kind:variable	line:26
+image_id	../facerecognition.py	/^        image_id = filename.split('_')[0]$/;"	kind:variable	line:53
+image_id	../facerecognition.py	/^    image_id = filename.split('_')[0]$/;"	kind:variable	line:21
+image_loaded	../facerecognition.py	/^    image_loaded = face_recognition.load_image_file($/;"	kind:variable	line:23
+image_path	../face-recognition/test.py	/^    def image_path(self):$/;"	kind:member	line:35
+image_type_path	../face-recognition/test.py	/^    image_type_path = '..\/Type' + str(image_type) + '\/'$/;"	kind:variable	line:134
+img	../face-recognition/test.py	/^            img = (img \/ 255.).astype(np.float32)$/;"	kind:variable	line:84
+img	../face-recognition/test.py	/^        img = align_image(img)$/;"	kind:variable	line:81
+img	../face-recognition/test.py	/^        img = load_image(m.image_path())$/;"	kind:variable	line:80
+imgDim	../OpenFace/demos/classifier_webcam.py	/^        imgDim=args.imgDim,$/;"	kind:variable	line:182
+imgDim	../OpenFace/tests/openface_api_tests.py	/^imgDim = 96$/;"	kind:variable	line:40
+imgObjs	../OpenFace/demos/web/create-unknown-vectors.py	/^    imgObjs = random.sample(allImgs, args.numImages)$/;"	kind:variable	line:72
+inLfw	../OpenFace/data/casia-facescrub/remove-lfw-names.py	/^def inLfw(name):$/;"	kind:function	line:13
+index	../facerecognition.py	/^                index = 0$/;"	kind:variable	line:79
+infer	../OpenFace/demos/classifier.py	/^def infer(args, multiple=False):$/;"	kind:function	line:175
+infer	../OpenFace/demos/classifier_webcam.py	/^def infer(img, args):$/;"	kind:function	line:105
+inferFromTest	../OpenFace/evaluation/lfw-classification-unknown.py	/^def inferFromTest(args):$/;"	kind:function	line:182
+inferParser	../OpenFace/demos/classifier.py	/^    inferParser = subparsers.add_parser($/;"	kind:variable	line:253
+iterImgs	../OpenFace/openface/data.py	/^def iterImgs(directory):$/;"	kind:function	line:78
+jobs	../OpenFace/data/vgg/download-and-align.py	/^jobs = []$/;"	kind:variable	line:58
+knn	../face-recognition/test.py	/^knn = KNeighborsClassifier(n_neighbors=1, metric='euclidean')$/;"	kind:variable	line:126
+label	../face-recognition/test.py	/^    label = m.name.split('-')[1]$/;"	kind:variable	line:78
+lael	../face-recognition/test.py	/^        lael = int(image_file.split('_')[0])$/;"	kind:variable	line:136
+landmarkIndices	../OpenFace/data/vgg/download-and-align.py	/^landmarkIndices = openface.AlignDlib.OUTER_EYES_AND_NOSE$/;"	kind:variable	line:42
+language	../OpenFace/api-docs/conf.py	/^language = None$/;"	kind:variable	line:36
+latex_documents	../OpenFace/api-docs/conf.py	/^latex_documents = [$/;"	kind:variable	line:59
+latex_elements	../OpenFace/api-docs/conf.py	/^latex_elements = {$/;"	kind:variable	line:54
+lbp_result	../opencv.py	/^            lbp_result = predictResult['LBP']$/;"	kind:variable	line:70
+lfw-classification-unknown.py	../OpenFace/evaluation/lfw-classification-unknown.py	1;"	kind:file	line:1
+lfw-classification.py	../OpenFace/evaluation/lfw-classification.py	1;"	kind:file	line:1
+lfw.py	../OpenFace/evaluation/lfw.py	1;"	kind:file	line:1
+lfwDir	../OpenFace/data/casia-facescrub/remove-lfw-names.py	/^lfwDir = '..\/lfw\/raw'$/;"	kind:variable	line:6
+lfwNames	../OpenFace/data/casia-facescrub/remove-lfw-names.py	/^lfwNames = [name.replace("_", "").lower() for name in lfwNames]$/;"	kind:variable	line:8
+lfwNames	../OpenFace/data/casia-facescrub/remove-lfw-names.py	/^lfwNames = os.listdir(lfwDir)$/;"	kind:variable	line:7
+lfwSubset	../OpenFace/tests/openface_api_tests.py	/^lfwSubset = os.path.join(openfaceDir, 'data', 'lfw-subset')$/;"	kind:variable	line:35
+lfwSubset	../OpenFace/tests/openface_batch_represent_tests.py	/^lfwSubset = os.path.join(openfaceDir, 'data', 'lfw-subset')$/;"	kind:variable	line:35
+lfwSubset	../OpenFace/tests/openface_demo_tests.py	/^lfwSubset = os.path.join(openfaceDir, 'data', 'lfw-subset')$/;"	kind:variable	line:28
+lfwSubset	../OpenFace/tests/openface_neural_net_training_tests.py	/^lfwSubset = os.path.join(openfaceDir, 'data', 'lfw-subset')$/;"	kind:variable	line:33
+loadPairs	../OpenFace/evaluation/lfw.py	/^def loadPairs(pairsFname):$/;"	kind:function	line:80
+loadState	../OpenFace/demos/web/websocket-server.py	/^    def loadState(self, jsImages, training, jsPeople):$/;"	kind:member	line:155
+load_image	../face-recognition/test.py	/^def load_image(path):$/;"	kind:function	line:55
+load_metadata	../face-recognition/test.py	/^def load_metadata(path):$/;"	kind:function	line:39
+load_weights	../face-recognition/utils.py	/^def load_weights():$/;"	kind:function	line:129
+main	../OpenFace/demos/web/simpleSSLServer.py	/^def main(port):$/;"	kind:function	line:11
+main	../OpenFace/demos/web/websocket-server.py	/^def main(reactor):$/;"	kind:function	line:362
+main	../OpenFace/evaluation/lfw-classification.py	/^def main():$/;"	kind:function	line:61
+main	../OpenFace/evaluation/lfw.py	/^def main():$/;"	kind:function	line:40
+main	../OpenFace/util/annotate-image.py	/^def main(args):$/;"	kind:function	line:35
+main	../OpenFace/util/detect-outliers.py	/^def main():$/;"	kind:function	line:43
+man_pages	../OpenFace/api-docs/conf.py	/^man_pages = [$/;"	kind:variable	line:64
+master_doc	../OpenFace/api-docs/conf.py	/^master_doc = 'index'$/;"	kind:variable	line:27
+matches	../facerecognition.py	/^            matches = face_recognition.compare_faces($/;"	kind:variable	line:74
+mkdirP	../OpenFace/openface/helper.py	/^def mkdirP(path):$/;"	kind:function	line:7
+mkdirP	../OpenFace/util/create-train-val-split.py	/^def mkdirP(path):$/;"	kind:function	line:24
+model	../OpenFace/tests/openface_api_tests.py	/^model = os.path.join(openfaceModelDir, 'nn4.small2.v1.t7')$/;"	kind:variable	line:39
+model.py	../face-recognition/model.py	1;"	kind:file	line:1
+modelDir	../OpenFace/data/vgg/download-and-align.py	/^modelDir = os.path.join(fileDir, '..', '..', 'models')$/;"	kind:variable	line:38
+modelDir	../OpenFace/demos/classifier.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:49
+modelDir	../OpenFace/demos/classifier_webcam.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:44
+modelDir	../OpenFace/demos/compare.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:36
+modelDir	../OpenFace/demos/sphere.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:20
+modelDir	../OpenFace/demos/web/create-unknown-vectors.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:31
+modelDir	../OpenFace/demos/web/websocket-server.py	/^modelDir = os.path.join(fileDir, '..', '..', 'models')$/;"	kind:variable	line:55
+modelDir	../OpenFace/evaluation/lfw-classification-unknown.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:56
+modelDir	../OpenFace/evaluation/lfw-classification.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:49
+modelDir	../OpenFace/tests/openface_api_tests.py	/^modelDir = os.path.join(openfaceDir, 'models')$/;"	kind:variable	line:30
+modelDir	../OpenFace/tests/openface_batch_represent_tests.py	/^modelDir = os.path.join(openfaceDir, 'models')$/;"	kind:variable	line:32
+modelDir	../OpenFace/tests/openface_neural_net_training_tests.py	/^modelDir = os.path.join(openfaceDir, 'models')$/;"	kind:variable	line:30
+modelDir	../OpenFace/util/align-dlib.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:29
+modelDir	../OpenFace/util/annotate-image.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:30
+modelDir	../OpenFace/util/detect-outliers.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:39
+modelDir	../OpenFace/util/profile-pipeline.py	/^modelDir = os.path.join(fileDir, '..', 'models')$/;"	kind:variable	line:34
+myDir	../OpenFace/openface/torch_neural_net.lutorpy.py	/^myDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:36
+myDir	../OpenFace/openface/torch_neural_net.py	/^myDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:27
+nImgs	../OpenFace/evaluation/lfw-classification.py	/^nImgs = 20$/;"	kind:variable	line:54
+nImgs	../OpenFace/util/prune-dataset.py	/^        nImgs = 0$/;"	kind:variable	line:21
+nPplVals	../OpenFace/evaluation/lfw-classification.py	/^nPplVals = [10, 25, 50, 100]$/;"	kind:variable	line:53
+names	../OpenFace/data/casia-facescrub/remove-lfw-names.py	/^names = os.listdir('raw')$/;"	kind:variable	line:10
+nargs	../OpenFace/evaluation/lfw-classification-unknown.py	/^        nargs='+',$/;"	kind:variable	line:464
+nargs	../OpenFace/evaluation/lfw-classification-unknown.py	/^        nargs='+',$/;"	kind:variable	line:469
+nargs	../OpenFace/evaluation/lfw-classification-unknown.py	/^        nargs='+',$/;"	kind:variable	line:475
+net	../OpenFace/demos/classifier.py	/^    net = openface.TorchNeuralNet(args.networkModel, imgDim=args.imgDim,$/;"	kind:variable	line:284
+net	../OpenFace/demos/classifier_webcam.py	/^    net = openface.TorchNeuralNet($/;"	kind:variable	line:180
+net	../OpenFace/demos/compare.py	/^net = openface.TorchNeuralNet(args.networkModel, args.imgDim)$/;"	kind:variable	line:59
+net	../OpenFace/demos/web/create-unknown-vectors.py	/^net = openface.TorchNeuralNet(args.model, imgDim=args.imgDim, cuda=False)$/;"	kind:variable	line:50
+net	../OpenFace/demos/web/websocket-server.py	/^net = openface.TorchNeuralNet(args.networkModel, imgDim=args.imgDim,$/;"	kind:variable	line:78
+net	../OpenFace/tests/openface_api_tests.py	/^net = openface.TorchNeuralNet(model, imgDim=imgDim)$/;"	kind:variable	line:43
+net	../OpenFace/util/profile-pipeline.py	/^net = openface.TorchNeuralNet(args.networkModel, args.imgDim)$/;"	kind:variable	line:57
+new_func	../OpenFace/evaluation/lfw-classification.py	/^        def new_func(*param):$/;"	kind:function	line:135
+nn	../OpenFace/openface/torch_neural_net.lutorpy.py	/^nn = lua.require('nn')$/;"	kind:variable	line:31
+nn4_small2_pretrained	../face-recognition/test.py	/^nn4_small2_pretrained = create_model()$/;"	kind:variable	line:19
+num	../face-recognition/test.py	/^num = len(metadata)$/;"	kind:variable	line:95
+onClose	../OpenFace/demos/web/websocket-server.py	/^    def onClose(self, wasClean, code, reason):$/;"	kind:member	line:152
+onConnect	../OpenFace/demos/web/websocket-server.py	/^    def onConnect(self, request):$/;"	kind:member	line:105
+onMessage	../OpenFace/demos/web/websocket-server.py	/^    def onMessage(self, payload, isBinary):$/;"	kind:member	line:112
+onOpen	../OpenFace/demos/web/websocket-server.py	/^    def onOpen(self):$/;"	kind:member	line:109
+opencv.py	../opencv.py	1;"	kind:file	line:1
+opencvExp	../OpenFace/evaluation/lfw-classification.py	/^def opencvExp(lfwAligned, cls):$/;"	kind:function	line:184
+openface.py	../openface.py	1;"	kind:file	line:1
+openfaceDir	../OpenFace/tests/openface_api_tests.py	/^openfaceDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))$/;"	kind:variable	line:29
+openfaceDir	../OpenFace/tests/openface_batch_represent_tests.py	/^openfaceDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))$/;"	kind:variable	line:31
+openfaceDir	../OpenFace/tests/openface_demo_tests.py	/^openfaceDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))$/;"	kind:variable	line:26
+openfaceDir	../OpenFace/tests/openface_neural_net_training_tests.py	/^openfaceDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))$/;"	kind:variable	line:29
+openfaceExp	../OpenFace/evaluation/lfw-classification.py	/^def openfaceExp(lfwAligned, net, cls):$/;"	kind:function	line:227
+openfaceModelDir	../OpenFace/data/vgg/download-and-align.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:40
+openfaceModelDir	../OpenFace/demos/classifier.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:51
+openfaceModelDir	../OpenFace/demos/classifier_webcam.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:46
+openfaceModelDir	../OpenFace/demos/compare.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:38
+openfaceModelDir	../OpenFace/demos/web/create-unknown-vectors.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:33
+openfaceModelDir	../OpenFace/demos/web/websocket-server.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:57
+openfaceModelDir	../OpenFace/evaluation/lfw-classification-unknown.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:58
+openfaceModelDir	../OpenFace/evaluation/lfw-classification.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:51
+openfaceModelDir	../OpenFace/tests/openface_api_tests.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:32
+openfaceModelDir	../OpenFace/util/align-dlib.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:31
+openfaceModelDir	../OpenFace/util/annotate-image.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:32
+openfaceModelDir	../OpenFace/util/detect-outliers.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:40
+openfaceModelDir	../OpenFace/util/profile-pipeline.py	/^openfaceModelDir = os.path.join(modelDir, 'openface')$/;"	kind:variable	line:36
+openface_api_tests.py	../OpenFace/tests/openface_api_tests.py	1;"	kind:file	line:1
+openface_batch_represent_tests.py	../OpenFace/tests/openface_batch_represent_tests.py	1;"	kind:file	line:1
+openface_demo_tests.py	../OpenFace/tests/openface_demo_tests.py	1;"	kind:file	line:1
+openface_neural_net_training_tests.py	../OpenFace/tests/openface_neural_net_training_tests.py	1;"	kind:file	line:1
+opt_idx	../face-recognition/test.py	/^opt_idx = np.argmax(f1_scores)$/;"	kind:variable	line:108
+opt_tau	../face-recognition/test.py	/^opt_tau = thresholds[opt_idx]$/;"	kind:variable	line:110
+out	../OpenFace/util/check-links.py	/^out = p.communicate()[0]$/;"	kind:variable	line:39
+out	../OpenFace/util/tsne.py	/^out = "{}\/tsne.pdf".format(args.workDir)$/;"	kind:variable	line:46
+overlap	../OpenFace/demos/sphere.py	/^        def overlap(self, bb):$/;"	kind:member	line:210
+p	../OpenFace/evaluation/lfw-classification-unknown.py	/^        p = multiprocessing.Process($/;"	kind:variable	line:376
+p	../OpenFace/util/check-links.py	/^p = Popen(cmd, stdout=PIPE)$/;"	kind:variable	line:38
+pairs	../OpenFace/evaluation/lfw.py	/^    pairs = loadPairs(args.lfwPairs)$/;"	kind:variable	line:75
+parser	../OpenFace/data/ms-celeb-1m/extract.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:30
+parser	../OpenFace/data/vgg/download-and-align.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:44
+parser	../OpenFace/demos/classifier.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:210
+parser	../OpenFace/demos/classifier_webcam.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:145
+parser	../OpenFace/demos/compare.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:40
+parser	../OpenFace/demos/web/create-unknown-vectors.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:35
+parser	../OpenFace/demos/web/websocket-server.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:62
+parser	../OpenFace/training/plot-loss.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:86
+parser	../OpenFace/util/align-dlib.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:141
+parser	../OpenFace/util/annotate-image.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:60
+parser	../OpenFace/util/create-train-val-split.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:89
+parser	../OpenFace/util/profile-pipeline.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:38
+parser	../OpenFace/util/prune-dataset.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:8
+parser	../OpenFace/util/tsne.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:24
+paths	../OpenFace/evaluation/lfw.py	/^    paths = map(lambda path: os.path.splitext(path)[0], paths)$/;"	kind:variable	line:70
+paths	../OpenFace/evaluation/lfw.py	/^    paths = map(os.path.basename, paths)  # Get the filename.$/;"	kind:variable	line:68
+paths	../OpenFace/evaluation/lfw.py	/^    paths = pd.read_csv(fname, header=None).as_matrix()[:, 1]$/;"	kind:variable	line:67
+ping	../OpenFace/demos/sphere.py	/^        def ping(self):$/;"	kind:member	line:214
+plot	../OpenFace/training/plot-loss.py	/^def plot(workDirs):$/;"	kind:function	line:33
+plot-loss.py	../OpenFace/training/plot-loss.py	1;"	kind:file	line:1
+plotAccuracy	../OpenFace/evaluation/lfw-classification.py	/^def plotAccuracy(workDir, largeFont, eigenFacesDf, fishFacesDf, lbphFacesDf,$/;"	kind:function	line:284
+plotDir	../OpenFace/training/plot-loss.py	/^plotDir = os.path.join(scriptDir, 'plots')$/;"	kind:variable	line:29
+plotOpenFaceROC	../OpenFace/evaluation/lfw.py	/^def plotOpenFaceROC(workDir, plotFolds=True, color=None):$/;"	kind:function	line:223
+plotPredictionTime	../OpenFace/evaluation/lfw-classification.py	/^def plotPredictionTime(workDir, largeFont, eigenFacesDf, fishFacesDf, lbphFacesDf,$/;"	kind:function	line:376
+plotTrainingTime	../OpenFace/evaluation/lfw-classification.py	/^def plotTrainingTime(workDir, largeFont, eigenFacesDf, fishFacesDf, lbphFacesDf,$/;"	kind:function	line:330
+plotVerifyExp	../OpenFace/evaluation/lfw.py	/^def plotVerifyExp(workDir, tag):$/;"	kind:function	line:254
+pool	../OpenFace/data/vgg/download-and-align.py	/^pool = Pool(16)$/;"	kind:variable	line:111
+predict	../functions.py	/^def predict(test_img, face_recognizer_LBP, face_recognizer_eigen_face):$/;"	kind:function	line:118
+predictResult	../opencv.py	/^            predictResult = predict($/;"	kind:variable	line:64
+prediction	../face-recognition/test.py	/^                    prediction = knn.predict([image])$/;"	kind:variable	line:146
+prepare_training_data	../functions.py	/^def prepare_training_data(data_folder_path):$/;"	kind:function	line:59
+preprocess	../OpenFace/evaluation/lfw-classification-unknown.py	/^def preprocess(args):$/;"	kind:function	line:247
+processFrame	../OpenFace/demos/web/websocket-server.py	/^    def processFrame(self, dataURL, identity):$/;"	kind:member	line:250
+profile-pipeline.py	../OpenFace/util/profile-pipeline.py	1;"	kind:file	line:1
+project	../OpenFace/api-docs/conf.py	/^project = 'OpenFace API Docs'$/;"	kind:variable	line:29
+projectC	../OpenFace/demos/sphere.py	/^def projectC(x, y, z):$/;"	kind:function	line:84
+projectS	../OpenFace/demos/sphere.py	/^def projectS(rho, theta, z):$/;"	kind:function	line:76
+prune-dataset.py	../OpenFace/util/prune-dataset.py	1;"	kind:file	line:1
+pygments_style	../OpenFace/api-docs/conf.py	/^pygments_style = 'sphinx'$/;"	kind:variable	line:40
+rawEmbeddings	../OpenFace/evaluation/lfw.py	/^    rawEmbeddings = pd.read_csv(fname, header=None).as_matrix()$/;"	kind:variable	line:72
+readedFace	../opencv.py	/^        readedFace = cv2.imread($/;"	kind:variable	line:61
+reader	../OpenFace/data/ms-celeb-1m/extract.py	/^    reader = csv.reader(tsvF, delimiter='\\t')$/;"	kind:variable	line:36
+recognized	../facerecognition.py	/^        recognized = 0$/;"	kind:variable	line:54
+release	../OpenFace/api-docs/conf.py	/^release = '0.1.1'$/;"	kind:variable	line:34
+remove-lfw-names.py	../OpenFace/data/casia-facescrub/remove-lfw-names.py	1;"	kind:file	line:1
+rep	../OpenFace/demos/web/create-unknown-vectors.py	/^        rep = getRep(imgObj.path)$/;"	kind:variable	line:76
+repTimes	../OpenFace/util/profile-pipeline.py	/^repTimes = []$/;"	kind:variable	line:88
+reps	../OpenFace/demos/web/create-unknown-vectors.py	/^    reps = []$/;"	kind:variable	line:74
+responsetime	../facerecognition.py	/^                responsetime = end_time - begin_time$/;"	kind:variable	line:89
+responsetime	../facerecognition.py	/^        responsetime = 0$/;"	kind:variable	line:58
+rgbImg	../OpenFace/util/profile-pipeline.py	/^rgbImg = cv2.cvtColor(bgrImg, cv2.COLOR_BGR2RGB)$/;"	kind:variable	line:83
+saveDir	../OpenFace/data/ms-celeb-1m/extract.py	/^        saveDir = os.path.join(args.outputDir, MID)$/;"	kind:variable	line:41
+savePath	../OpenFace/data/ms-celeb-1m/extract.py	/^        savePath = os.path.join(saveDir, "{}-{}.jpg".format(imgSearchRank, faceID))$/;"	kind:variable	line:42
+scriptDir	../OpenFace/training/plot-loss.py	/^scriptDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:28
+sendTSNE	../OpenFace/demos/web/websocket-server.py	/^    def sendTSNE(self, people):$/;"	kind:member	line:195
+setup	../OpenFace/api-docs/conf.py	/^def setup(app):$/;"	kind:function	line:45
+shape	../face-recognition/utils.py	/^def shape(x):$/;"	kind:function	line:20
+simpleSSLServer.py	../OpenFace/demos/web/simpleSSLServer.py	1;"	kind:file	line:1
+source_suffix	../OpenFace/api-docs/conf.py	/^source_suffix = '.rst'$/;"	kind:variable	line:24
+sphere	../OpenFace/demos/sphere.py	/^        sphere = np.copy(frame)$/;"	kind:variable	line:273
+sphere.py	../OpenFace/demos/sphere.py	1;"	kind:file	line:1
+square	../face-recognition/utils.py	/^def square(x):$/;"	kind:function	line:23
+start	../OpenFace/demos/classifier.py	/^        start = time.time()$/;"	kind:variable	line:290
+start	../OpenFace/demos/classifier.py	/^    start = time.time()$/;"	kind:variable	line:281
+start	../OpenFace/demos/classifier.py	/^start = time.time()$/;"	kind:variable	line:23
+start	../OpenFace/demos/classifier_webcam.py	/^start = time.time()$/;"	kind:variable	line:30
+start	../OpenFace/demos/compare.py	/^start = time.time()$/;"	kind:variable	line:23
+start	../OpenFace/demos/compare.py	/^start = time.time()$/;"	kind:variable	line:57
+start	../OpenFace/demos/sphere.py	/^start = time.time()$/;"	kind:variable	line:6
+start	../OpenFace/evaluation/lfw-classification-unknown.py	/^        start = time.time()$/;"	kind:variable	line:387
+start	../OpenFace/evaluation/lfw-classification-unknown.py	/^        start = time.time()$/;"	kind:variable	line:401
+start	../OpenFace/evaluation/lfw-classification-unknown.py	/^        start = time.time()$/;"	kind:variable	line:515
+start	../OpenFace/evaluation/lfw-classification-unknown.py	/^start = time.time()$/;"	kind:variable	line:24
+start	../OpenFace/util/detect-outliers.py	/^start = time.time()$/;"	kind:variable	line:24
+start	../OpenFace/util/profile-pipeline.py	/^start = time.time()$/;"	kind:variable	line:22
+start	../OpenFace/util/profile-pipeline.py	/^start = time.time()$/;"	kind:variable	line:55
+std	../OpenFace/util/profile-pipeline.py	/^std = np.std(alignmentTimes)$/;"	kind:variable	line:102
+std	../OpenFace/util/profile-pipeline.py	/^std = np.std(detectionTimes)$/;"	kind:variable	line:99
+std	../OpenFace/util/profile-pipeline.py	/^std = np.std(repTimes)$/;"	kind:variable	line:105
+std	../OpenFace/util/profile-pipeline.py	/^std = np.std(totalTimes)$/;"	kind:variable	line:108
+subparsers	../OpenFace/demos/classifier.py	/^    subparsers = parser.add_subparsers(dest='mode', help="Mode")$/;"	kind:variable	line:231
+subparsers	../OpenFace/util/align-dlib.py	/^    subparsers = parser.add_subparsers(dest='mode', help="Mode")$/;"	kind:variable	line:147
+target_names	../OpenFace/util/tsne.py	/^target_names = np.array(args.names)$/;"	kind:variable	line:32
+targets	../face-recognition/test.py	/^targets = np.array([m.name for m in metadata])$/;"	kind:variable	line:112
+templates_path	../OpenFace/api-docs/conf.py	/^templates_path = ['_templates']$/;"	kind:variable	line:22
+tensor	../face-recognition/utils.py	/^  tensor = Activation('relu')(tensor)$/;"	kind:variable	line:51
+tensor	../face-recognition/utils.py	/^  tensor = Activation('relu')(tensor)$/;"	kind:variable	line:59
+tensor	../face-recognition/utils.py	/^  tensor = BatchNormalization(axis=3, epsilon=0.00001, name=layer+'_bn'+'2')(tensor)$/;"	kind:variable	line:58
+tensor	../face-recognition/utils.py	/^  tensor = BatchNormalization(axis=3, epsilon=0.00001, name=layer+'_bn'+num)(tensor)$/;"	kind:variable	line:50
+tensor	../face-recognition/utils.py	/^  tensor = Conv2D(cv1_out, cv1_filter, strides=cv1_strides, name=layer+'_conv'+num)(x)$/;"	kind:variable	line:49
+tensor	../face-recognition/utils.py	/^  tensor = Conv2D(cv2_out, cv2_filter, strides=cv2_strides, name=layer+'_conv'+'2')(tensor)$/;"	kind:variable	line:57
+tensor	../face-recognition/utils.py	/^  tensor = ZeroPadding2D(padding=padding)(tensor)$/;"	kind:variable	line:54
+test.py	../face-recognition/test.py	1;"	kind:file	line:1
+test_batch_represent	../OpenFace/tests/openface_batch_represent_tests.py	/^def test_batch_represent():$/;"	kind:function	line:38
+test_classification_demo_pretrained	../OpenFace/tests/openface_demo_tests.py	/^def test_classification_demo_pretrained():$/;"	kind:function	line:42
+test_classification_demo_pretrained_multi	../OpenFace/tests/openface_demo_tests.py	/^def test_classification_demo_pretrained_multi():$/;"	kind:function	line:55
+test_classification_demo_training	../OpenFace/tests/openface_demo_tests.py	/^def test_classification_demo_training():$/;"	kind:function	line:69
+test_compare_demo	../OpenFace/tests/openface_demo_tests.py	/^def test_compare_demo():$/;"	kind:function	line:31
+test_dnn_training	../OpenFace/tests/openface_neural_net_training_tests.py	/^def test_dnn_training():$/;"	kind:function	line:36
+test_imgs	../opencv.py	/^test_imgs = {}$/;"	kind:variable	line:41
+test_pipeline	../OpenFace/tests/openface_api_tests.py	/^def test_pipeline():$/;"	kind:function	line:46
+texinfo_documents	../OpenFace/api-docs/conf.py	/^texinfo_documents = [$/;"	kind:variable	line:69
+thresholds	../face-recognition/test.py	/^thresholds = np.arange(0.3, 1.0, 0.01)$/;"	kind:variable	line:105
+tls_crt	../OpenFace/demos/web/websocket-server.py	/^tls_crt = os.path.join(fileDir, 'tls', 'server.crt')$/;"	kind:variable	line:59
+tls_key	../OpenFace/demos/web/websocket-server.py	/^tls_key = os.path.join(fileDir, 'tls', 'server.key')$/;"	kind:variable	line:60
+toFrame	../OpenFace/demos/sphere.py	/^    def toFrame(x):$/;"	kind:function	line:97
+todo_include_todos	../OpenFace/api-docs/conf.py	/^todo_include_todos = True$/;"	kind:variable	line:42
+torch	../OpenFace/openface/torch_neural_net.lutorpy.py	/^torch = lua.require('torch')$/;"	kind:variable	line:30
+torch_neural_net.lutorpy.py	../OpenFace/openface/torch_neural_net.lutorpy.py	1;"	kind:file	line:1
+torch_neural_net.py	../OpenFace/openface/torch_neural_net.py	1;"	kind:file	line:1
+totalTimes	../OpenFace/util/profile-pipeline.py	/^totalTimes = []$/;"	kind:variable	line:89
+train	../OpenFace/demos/classifier.py	/^def train(args):$/;"	kind:function	line:104
+train	../OpenFace/evaluation/lfw-classification-unknown.py	/^def train(args):$/;"	kind:function	line:75
+trainParser	../OpenFace/demos/classifier.py	/^    trainParser = subparsers.add_parser('train',$/;"	kind:variable	line:232
+trainSVM	../OpenFace/demos/web/websocket-server.py	/^    def trainSVM(self):$/;"	kind:member	line:229
+train_idx	../face-recognition/test.py	/^train_idx = np.arange(metadata.shape[0])$/;"	kind:variable	line:120
+triplet_generator	../face-recognition/data.py	/^def triplet_generator():$/;"	kind:function	line:3
+tsne	../OpenFace/util/tsne.py	/^tsne = TSNE(n_components=2, init='random', random_state=0)$/;"	kind:variable	line:36
+tsne.py	../OpenFace/util/tsne.py	1;"	kind:file	line:1
+type	../OpenFace/demos/classifier.py	/^        type=str,$/;"	kind:variable	line:214
+type	../OpenFace/demos/classifier.py	/^        type=str,$/;"	kind:variable	line:221
+type	../OpenFace/demos/classifier.py	/^        type=str,$/;"	kind:variable	line:237
+type	../OpenFace/demos/classifier.py	/^        type=str,$/;"	kind:variable	line:250
+type	../OpenFace/demos/classifier.py	/^        type=str,$/;"	kind:variable	line:257
+type	../OpenFace/demos/classifier_webcam.py	/^        type=int,$/;"	kind:variable	line:164
+type	../OpenFace/demos/classifier_webcam.py	/^        type=str,$/;"	kind:variable	line:148
+type	../OpenFace/demos/classifier_webcam.py	/^        type=str,$/;"	kind:variable	line:155
+type	../OpenFace/demos/classifier_webcam.py	/^        type=str,$/;"	kind:variable	line:174
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=float,$/;"	kind:variable	line:474
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:410
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:417
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:433
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:443
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:450
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:463
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:468
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:493
+type	../OpenFace/evaluation/lfw-classification-unknown.py	/^        type=str,$/;"	kind:variable	line:498
+unknown_image	../facerecognition.py	/^        unknown_image = face_recognition.load_image_file($/;"	kind:variable	line:62
+unknown_image_encoding	../facerecognition.py	/^        unknown_image_encoding = unknown_image_encoding_help[$/;"	kind:variable	line:69
+unknown_image_encoding_help	../facerecognition.py	/^        unknown_image_encoding_help = face_recognition.face_encodings($/;"	kind:variable	line:67
+updateRep	../OpenFace/demos/sphere.py	/^        def updateRep(self, rep):$/;"	kind:member	line:204
+urls	../OpenFace/util/check-links.py	/^urls = set(out.split())$/;"	kind:variable	line:40
+utilDir	../OpenFace/util/check-links.py	/^utilDir = os.path.dirname(os.path.realpath(__file__))$/;"	kind:variable	line:9
+utils.py	../face-recognition/utils.py	1;"	kind:file	line:1
+variable	../face-recognition/utils.py	/^def variable(value, dtype=_FLOATX, name=None):$/;"	kind:function	line:15
+verifyExp	../OpenFace/evaluation/lfw.py	/^def verifyExp(workDir, pairs, embeddings):$/;"	kind:function	line:185
+version	../OpenFace/api-docs/conf.py	/^version = '0.1.1'$/;"	kind:variable	line:33
+video_capture	../OpenFace/demos/classifier_webcam.py	/^    video_capture = cv2.VideoCapture(args.captureDevice)$/;"	kind:variable	line:186
+websocket-server.py	../OpenFace/demos/web/websocket-server.py	1;"	kind:file	line:1
+weights	../face-recognition/utils.py	/^weights = [$/;"	kind:variable	line:62
+write	../OpenFace/util/align-dlib.py	/^def write(vals, fName):$/;"	kind:function	line:34
+writeROC	../OpenFace/evaluation/lfw.py	/^def writeROC(fname, thresholds, embeddings, pairsTest):$/;"	kind:function	line:108
+y	../OpenFace/util/tsne.py	/^y = pd.read_csv("{}\/labels.csv".format(args.workDir)).as_matrix()[:, 0]$/;"	kind:variable	line:29
+y	../face-recognition/test.py	/^y = encoder.transform(targets)$/;"	kind:variable	line:118
+y_train	../face-recognition/test.py	/^y_train = y[train_idx]$/;"	kind:variable	line:124
+zeros	../face-recognition/utils.py	/^def zeros(shape, dtype=_FLOATX, name=None):$/;"	kind:function	line:26

@@ -1,0 +1,630 @@
+{
+  "1": {
+    "path": "/",
+    "data": {
+      "devices": {
+        "cameras": {
+          "aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw": {
+            "name": "Living Room",
+            "software_version": "217-610040",
+            "where_id":
+              "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q",
+            "device_id":
+              "aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw",
+            "structure_id":
+              "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q",
+            "is_online": true,
+            "is_streaming": true,
+            "is_audio_input_enabled": true,
+            "last_is_online_change": "2018-05-07T18:44:50.000Z",
+            "is_video_history_enabled": true,
+            "is_public_share_enabled": false,
+            "last_event": {
+              "has_sound": false,
+              "has_motion": true,
+              "has_person": false,
+              "start_time": "2018-05-07T18:47:29.410Z",
+              "end_time": "2018-05-07T18:47:39.580Z",
+              "urls_expire_time": "2018-05-12T18:47:29.410Z",
+              "web_url":
+                "https://home.nest.com/cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/cuepoints/WU2x1uwmcybDtzgT4Nl0LA?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "app_url":
+                "nestmobile://cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/cuepoints/WU2x1uwmcybDtzgT4Nl0LA?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "image_url":
+                "https://www.dropcam.com/api/wwn.get_image/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/GJOnAuhXSZ_BALLI_Hs6LKLmQ24wFaTM?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "animated_image_url":
+                "https://www.dropcam.com/api/wwn.get_animated_image/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/GJOnAuhXSZ_BALLI_Hs6LKLmQ24wFaTM?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk"
+            },
+            "where_name": "Living Room",
+            "name_long": "Living Room Camera",
+            "web_url":
+              "https://home.nest.com/cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+            "app_url":
+              "nestmobile://cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+            "snapshot_url":
+              "https://www.dropcam.com/api/wwn.get_snapshot/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFjQwSVNyelZ4eEhsRER2ZlZlaU1ub0EaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk"
+          }
+        }
+      },
+      "structures": {
+        "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q": {
+          "name": "Jonathan's Paradise",
+          "structure_id":
+            "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q",
+          "wheres": {
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq7yk2dGS4ojg": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq7yk2dGS4ojg",
+              "name": "Attic"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfreLdAFGF2P4g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfreLdAFGF2P4g",
+              "name": "Back Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqN-WrvIxgZ2A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqN-WrvIxgZ2A",
+              "name": "Backyard"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo2lx9qREdujQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo2lx9qREdujQ",
+              "name": "Basement"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvXFMBdZsV3w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvXFMBdZsV3w",
+              "name": "Bathroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvgS4QcjZ3QA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvgS4QcjZ3QA",
+              "name": "Bedroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfogiVIVkDcD9w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfogiVIVkDcD9w",
+              "name": "Deck"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrYGHcZM07XOQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrYGHcZM07XOQ",
+              "name": "Den"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrTQ_7KIOQugw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrTQ_7KIOQugw",
+              "name": "Dining Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpjHM-YqOk7BQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpjHM-YqOk7BQ",
+              "name": "Downstairs"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq9iCDDH6QnxA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq9iCDDH6QnxA",
+              "name": "Driveway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpaFHymd7brvw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpaFHymd7brvw",
+              "name": "Entryway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfppRh8d8wODNw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfppRh8d8wODNw",
+              "name": "Family Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqMCcw5gFm_Qw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqMCcw5gFm_Qw",
+              "name": "Front Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpZO-ISIDZJ9w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpZO-ISIDZJ9w",
+              "name": "Front Yard"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfr-BRegDKDrQA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfr-BRegDKDrQA",
+              "name": "Garage"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfplE-5jl8D7DQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfplE-5jl8D7DQ",
+              "name": "Guest House"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrnziHHUgxDBw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrnziHHUgxDBw",
+              "name": "Guest Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpUtSJnruiF1A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpUtSJnruiF1A",
+              "name": "Hallway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpcBOWIk8RV7g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpcBOWIk8RV7g",
+              "name": "Kids Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrlGNRP_97X_g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrlGNRP_97X_g",
+              "name": "Kitchen"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q",
+              "name": "Living Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpQApRmmnjPWQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpQApRmmnjPWQ",
+              "name": "Master Bedroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoDeIbDJKrsiw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoDeIbDJKrsiw",
+              "name": "Office"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqUgf2Wuf2hFA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqUgf2Wuf2hFA",
+              "name": "Outside"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfp27yWaS2ra3A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfp27yWaS2ra3A",
+              "name": "Patio"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoI4SKbahzMlg": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoI4SKbahzMlg",
+              "name": "Shed"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrykMDy-tIAJA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrykMDy-tIAJA",
+              "name": "Side Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqDXmG2kf3ing": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqDXmG2kf3ing",
+              "name": "Upstairs"
+            }
+          },
+          "cameras": ["aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw"]
+        }
+      },
+      "metadata": {
+        "access_token":
+          "c.7HfMARXZUCIY2HoyrcrHSB5To7hGDTRHWP9atCXxdkb29JFT9e3v3FcdftBzylF4Bdqz4ELzubq0DsUOYjtQJyuhvjqWD4aAsEoh07SDUxC4qzrFEmvdnYN3h3jQMZBApM8y0AlQQHOf2RCl",
+        "client_version": 1,
+        "user_id": "z.1.1./nDQBmqltUklMd3R2o2rtHpIgiqiXCNWl4MFTbIKtfo="
+      }
+    }
+  },
+  "2": {
+    "path": "/",
+    "data": {
+      "devices": {
+        "cameras": {
+          "aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw": {
+            "name": "Living Room",
+            "software_version": "217-610040",
+            "where_id":
+              "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q",
+            "device_id":
+              "aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw",
+            "structure_id":
+              "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q",
+            "is_online": true,
+            "is_streaming": true,
+            "is_audio_input_enabled": true,
+            "last_is_online_change": "2018-05-07T18:44:50.000Z",
+            "is_video_history_enabled": true,
+            "is_public_share_enabled": false,
+            "last_event": {
+              "has_sound": false,
+              "has_motion": true,
+              "has_person": true,
+              "start_time": "2018-05-07T19:18:07.430Z",
+              "urls_expire_time": "2018-05-12T19:18:07.430Z",
+              "web_url":
+                "https://home.nest.com/cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/cuepoints/gVfEFQJUd3dsYkpD8I5Vfg?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "app_url":
+                "nestmobile://cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/cuepoints/gVfEFQJUd3dsYkpD8I5Vfg?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "image_url":
+                "https://www.dropcam.com/api/wwn.get_image/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/GJOnAuhXSZ_BALLI_Hs6LCLSIfGvVSD3?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "animated_image_url":
+                "https://www.dropcam.com/api/wwn.get_animated_image/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/GJOnAuhXSZ_BALLI_Hs6LCLSIfGvVSD3?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk"
+            },
+            "where_name": "Living Room",
+            "name_long": "Living Room Camera",
+            "web_url":
+              "https://home.nest.com/cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+            "app_url":
+              "nestmobile://cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+            "snapshot_url":
+              "https://www.dropcam.com/api/wwn.get_snapshot/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkR29naTlyekdmM3caNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk"
+          }
+        }
+      },
+      "structures": {
+        "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q": {
+          "name": "Jonathan's Paradise",
+          "structure_id":
+            "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q",
+          "wheres": {
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq7yk2dGS4ojg": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq7yk2dGS4ojg",
+              "name": "Attic"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfreLdAFGF2P4g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfreLdAFGF2P4g",
+              "name": "Back Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqN-WrvIxgZ2A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqN-WrvIxgZ2A",
+              "name": "Backyard"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo2lx9qREdujQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo2lx9qREdujQ",
+              "name": "Basement"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvXFMBdZsV3w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvXFMBdZsV3w",
+              "name": "Bathroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvgS4QcjZ3QA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvgS4QcjZ3QA",
+              "name": "Bedroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfogiVIVkDcD9w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfogiVIVkDcD9w",
+              "name": "Deck"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrYGHcZM07XOQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrYGHcZM07XOQ",
+              "name": "Den"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrTQ_7KIOQugw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrTQ_7KIOQugw",
+              "name": "Dining Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpjHM-YqOk7BQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpjHM-YqOk7BQ",
+              "name": "Downstairs"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq9iCDDH6QnxA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq9iCDDH6QnxA",
+              "name": "Driveway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpaFHymd7brvw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpaFHymd7brvw",
+              "name": "Entryway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfppRh8d8wODNw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfppRh8d8wODNw",
+              "name": "Family Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqMCcw5gFm_Qw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqMCcw5gFm_Qw",
+              "name": "Front Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpZO-ISIDZJ9w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpZO-ISIDZJ9w",
+              "name": "Front Yard"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfr-BRegDKDrQA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfr-BRegDKDrQA",
+              "name": "Garage"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfplE-5jl8D7DQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfplE-5jl8D7DQ",
+              "name": "Guest House"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrnziHHUgxDBw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrnziHHUgxDBw",
+              "name": "Guest Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpUtSJnruiF1A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpUtSJnruiF1A",
+              "name": "Hallway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpcBOWIk8RV7g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpcBOWIk8RV7g",
+              "name": "Kids Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrlGNRP_97X_g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrlGNRP_97X_g",
+              "name": "Kitchen"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q",
+              "name": "Living Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpQApRmmnjPWQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpQApRmmnjPWQ",
+              "name": "Master Bedroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoDeIbDJKrsiw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoDeIbDJKrsiw",
+              "name": "Office"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqUgf2Wuf2hFA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqUgf2Wuf2hFA",
+              "name": "Outside"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfp27yWaS2ra3A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfp27yWaS2ra3A",
+              "name": "Patio"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoI4SKbahzMlg": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoI4SKbahzMlg",
+              "name": "Shed"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrykMDy-tIAJA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrykMDy-tIAJA",
+              "name": "Side Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqDXmG2kf3ing": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqDXmG2kf3ing",
+              "name": "Upstairs"
+            }
+          },
+          "cameras": ["aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw"]
+        }
+      },
+      "metadata": {
+        "access_token":
+          "c.7HfMARXZUCIY2HoyrcrHSB5To7hGDTRHWP9atCXxdkb29JFT9e3v3FcdftBzylF4Bdqz4ELzubq0DsUOYjtQJyuhvjqWD4aAsEoh07SDUxC4qzrFEmvdnYN3h3jQMZBApM8y0AlQQHOf2RCl",
+        "client_version": 1,
+        "user_id": "z.1.1./nDQBmqltUklMd3R2o2rtHpIgiqiXCNWl4MFTbIKtfo="
+      }
+    }
+  },
+  "3": {
+    "path": "/",
+    "data": {
+      "devices": {
+        "cameras": {
+          "aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw": {
+            "name": "Living Room",
+            "software_version": "217-610040",
+            "where_id":
+              "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q",
+            "device_id":
+              "aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw",
+            "structure_id":
+              "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q",
+            "is_online": true,
+            "is_streaming": true,
+            "is_audio_input_enabled": true,
+            "last_is_online_change": "2018-05-07T18:44:50.000Z",
+            "is_video_history_enabled": true,
+            "is_public_share_enabled": false,
+            "last_event": {
+              "has_sound": false,
+              "has_motion": true,
+              "has_person": true,
+              "start_time": "2018-05-07T19:18:27.509Z",
+              "urls_expire_time": "2018-05-12T19:18:27.509Z",
+              "web_url":
+                "https://home.nest.com/cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkcW9iUF96bkZNTkEaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/cuepoints/vbh-sgxz0sfh71RLrN-ljw?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "app_url":
+                "nestmobile://cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkcW9iUF96bkZNTkEaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/cuepoints/vbh-sgxz0sfh71RLrN-ljw?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "image_url":
+                "https://www.dropcam.com/api/wwn.get_image/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNjTmxCTnVxM1piQXcaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/GJOnAuhXSZ_BALLI_Hs6LFYK379NL9WE?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+              "animated_image_url":
+                "https://www.dropcam.com/api/wwn.get_animated_image/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNjTmxCTnVxM1piQXcaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ/GJOnAuhXSZ_BALLI_Hs6LFYK379NL9WE?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk"
+            },
+            "where_name": "Living Room",
+            "name_long": "Living Room Camera",
+            "web_url":
+              "https://home.nest.com/cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkcW9iUF96bkZNTkEaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+            "app_url":
+              "nestmobile://cameras/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkcW9iUF96bkZNTkEaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk",
+            "snapshot_url":
+              "https://www.dropcam.com/api/wwn.get_snapshot/CjZhUmdteGRyZEVLVjl0dTZJaml2WE1iNXBWalUzTHh5MEhWZ21BbDZjbERQdDFQektuUGZvbHcSFnZiaC1zZ3h6MHNkcW9iUF96bkZNTkEaNlBuV1JPLUJVX2xfd2lHTkJGSjdWMi0zRTVJZnNxSmhEeV9XbXoxSkhSZnd5STZWcFg0UFRQUQ?auth=770cbnJdWJiMphEGTCKP_mRLlsX-fxMQ9R8i7GjuoEB18El_4h_WP6_McvHLvqDsLxHzPnQYgek-LIbk2HaXEkvQMKQeCWUsjMjqxoIAHKUvwQ_mggDd8dt5EKFSuBgS7ew4G9awo-TLz6B3I7ok0Ity1zodB4ojHXQTZYR7NSR3jj02YosIpgxvyw1pTriXdXi-YAe3XTcTlk"
+          }
+        }
+      },
+      "structures": {
+        "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q": {
+          "name": "Jonathan's Paradise",
+          "structure_id":
+            "NLGb7M7TcsamSmB5eN8zl4__yqsKQEQsd13WY_ILvdVbzmMBSkwv1Q",
+          "wheres": {
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq7yk2dGS4ojg": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq7yk2dGS4ojg",
+              "name": "Attic"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfreLdAFGF2P4g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfreLdAFGF2P4g",
+              "name": "Back Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqN-WrvIxgZ2A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqN-WrvIxgZ2A",
+              "name": "Backyard"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo2lx9qREdujQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo2lx9qREdujQ",
+              "name": "Basement"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvXFMBdZsV3w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvXFMBdZsV3w",
+              "name": "Bathroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvgS4QcjZ3QA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpvgS4QcjZ3QA",
+              "name": "Bedroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfogiVIVkDcD9w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfogiVIVkDcD9w",
+              "name": "Deck"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrYGHcZM07XOQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrYGHcZM07XOQ",
+              "name": "Den"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrTQ_7KIOQugw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrTQ_7KIOQugw",
+              "name": "Dining Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpjHM-YqOk7BQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpjHM-YqOk7BQ",
+              "name": "Downstairs"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq9iCDDH6QnxA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfq9iCDDH6QnxA",
+              "name": "Driveway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpaFHymd7brvw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpaFHymd7brvw",
+              "name": "Entryway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfppRh8d8wODNw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfppRh8d8wODNw",
+              "name": "Family Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqMCcw5gFm_Qw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqMCcw5gFm_Qw",
+              "name": "Front Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpZO-ISIDZJ9w": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpZO-ISIDZJ9w",
+              "name": "Front Yard"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfr-BRegDKDrQA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfr-BRegDKDrQA",
+              "name": "Garage"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfplE-5jl8D7DQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfplE-5jl8D7DQ",
+              "name": "Guest House"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrnziHHUgxDBw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrnziHHUgxDBw",
+              "name": "Guest Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpUtSJnruiF1A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpUtSJnruiF1A",
+              "name": "Hallway"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpcBOWIk8RV7g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpcBOWIk8RV7g",
+              "name": "Kids Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrlGNRP_97X_g": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrlGNRP_97X_g",
+              "name": "Kitchen"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfo5nMm1xeHl0Q",
+              "name": "Living Room"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpQApRmmnjPWQ": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfpQApRmmnjPWQ",
+              "name": "Master Bedroom"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoDeIbDJKrsiw": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoDeIbDJKrsiw",
+              "name": "Office"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqUgf2Wuf2hFA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqUgf2Wuf2hFA",
+              "name": "Outside"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfp27yWaS2ra3A": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfp27yWaS2ra3A",
+              "name": "Patio"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoI4SKbahzMlg": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfoI4SKbahzMlg",
+              "name": "Shed"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrykMDy-tIAJA": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfrykMDy-tIAJA",
+              "name": "Side Door"
+            },
+            "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqDXmG2kf3ing": {
+              "where_id":
+                "OzETKWa86LTaZp85fP7oRQPfxHPJA_CuEn4gQj9bzfqDXmG2kf3ing",
+              "name": "Upstairs"
+            }
+          },
+          "cameras": ["aRgmxdrdEKV9tu6IjivXMb5pVjU3Lxy0HVgmAl6clDPt1PzKnPfolw"]
+        }
+      },
+      "metadata": {
+        "access_token":
+          "c.7HfMARXZUCIY2HoyrcrHSB5To7hGDTRHWP9atCXxdkb29JFT9e3v3FcdftBzylF4Bdqz4ELzubq0DsUOYjtQJyuhvjqWD4aAsEoh07SDUxC4qzrFEmvdnYN3h3jQMZBApM8y0AlQQHOf2RCl",
+        "client_version": 1,
+        "user_id": "z.1.1./nDQBmqltUklMd3R2o2rtHpIgiqiXCNWl4MFTbIKtfo="
+      }
+    }
+  }
+}
