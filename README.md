@@ -1,11 +1,5 @@
 # Bachelorproef
 
-[De bachelorproef](https://www.overleaf.com/read/zzkkkxkfftgj) wordt geschreven met behulp van Overleaf.
-
-De kladversie wordt geschreven in volgende google documents: https://docs.google.com/document/d/1wzmfq5UJduSJDZ9yT8qA_gZ5-z_VQCj5rWz_lLTsIs4/edit?usp=sharing
-
-De folders met de naam 'Others' zijn tijdelijk en niet belangrijk.
-
 ## Onderzoeksvraag 1 - Experimenten API's
 
 De code hiervan vindt u in het mapje 'Project_ImageRecognitionAPIS'.
